@@ -29,10 +29,10 @@ const CTA = () => {
               className="animate_left md:w-[70%] lg:w-1/2"
             >
               <h2 className="mb-4 w-11/12 text-3xl font-bold text-light xl:text-hero">
-              Ready to get <span className="text-[#D35400]">started</span>?
+              Ready to get <span className="text-[#89af00]">started</span>?
               </h2>
               <p>
-              Let’s chat about how we can help you leverage AI in your business.
+              We’re here to help you every step of the way, from concept to launch and beyond
               </p>
             </motion.div>
             <motion.div
@@ -63,7 +63,7 @@ const CTA = () => {
                 />
                  <button
                       aria-label="get started button"
-                      className="flex rounded-full bg-black px-7.5 py-2.5 text-white duration-300 ease-in-out hover:bg-blackho dark:bg-btndark dark:hover:bg-blackho bg-gradient-to-r from-customOrange to-customRed" 
+                      className="flex rounded-full bg-black px-7.5 py-2.5 text-white duration-300 ease-in-out hover:bg-blackho dark:bg-btndark dark:hover:bg-blackho bg-gradient-to-r from-customGreen to-customGreener" 
                       onClick={() => {
                         const contactSection = document.getElementById("contact");
                         if (contactSection) {
@@ -71,7 +71,7 @@ const CTA = () => {
                         }
                       }}
                     >
-                     Let’s Chat
+                     Let’s Build Together
                     </button>
               </div>
             </motion.div>

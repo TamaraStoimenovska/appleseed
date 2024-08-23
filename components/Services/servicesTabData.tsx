@@ -3,38 +3,38 @@ import { FeatureTab } from "@/types/featureTab";
 const servicesTabData: FeatureTab[] = [
   {
     id: "tabOne",
-    title: "Discover the Right AI Tools with Our Curated ",
-    desc1: `With thousands of AI tools and platforms available, it can be overwhelming to know where to start.`,
-    desc2: `Kono has done the hard work for you. We've vetted and selected the best open-source and SaaS applications in the AI world. Whether you need a ChatGPT clone, AI-powered email processing, or something else entirely, we’ll guide you in choosing the right tools that fit your needs. These tools have already proven successful in transforming businesses like yours—let us guide you to the ones that will do the same for you.`,
-    desc3: `Let’s discuss your specific requirements, and we’ll recommend the best tools to get you started.`,
+    title: "Let us Choose the Best Tools for Your App",
+    desc1: `With so many NoCode and open-source tools available, it can be difficult to know where to start. `,
+    desc2: `Appleseed.dev simplifies this process. We’ve vetted and selected the best tools in the industry, so you don’t have to. `,
+    desc3: `Whether you’re building a new app or transforming an existing one, we’ll guide you in choosing the right tools to achieve your goals efficiently and effectively.`,
     image: "/images/services/llmstrategy.jpg",
     btnText: 'Let’s Discuss Your Project'
 
   },
   {
     id: "tabTwo",
-    title: "Rapid Prototyping with NoCode/LowCode Solutions",
-    desc1: `Building AI prototypes can seem like a daunting task, especially if you don’t have a team of engineers.`,
-    desc2: `With Kono, you don’t need one. We utilize the best NoCode and LowCode platforms to help you quickly create functional prototypes. This allows you to test and iterate on your ideas without the heavy lifting.`,
-    desc3: `We’ll help you bring your ideas to life with rapid, easy-to-manage prototypes.`,
+    title: "Bring Your Ideas to Life Quickly through Rapid Prototyping",
+    desc1: `Speed is critical when developing apps, especially in competitive markets.`,
+    desc2: `At Appleseed.dev, we use the best NoCode platforms and open-source tools to quickly bring your ideas to life.`,
+    desc3: `Our rapid prototyping approach allows you to see your app in action, gather feedback, and make adjustments before moving to full-scale development.`,
     image: "/images/services/prototypedev.svg",
     btnText: 'Get Started Fast'
   },
   {
     id: "tabThree",
-    title: "From Prototype to Production—Scaling with Confidence",
-    desc1: `Have you been let down by a poorly executed AI project that just isn’t scaling?`,
-    desc2: `Solution: Kono specializes in taking underperforming prototypes and turning them into scalable, production-ready solutions. We optimize your AI tools so they grow with your business, ensuring they are both reliable and effective. Our folks have been working with the internet professionally for nearly 3 decades and building global scale platforms for over 10 years. `,
-    desc3: `If you’re stuck with a solution that isn’t working, we’re here to help you turn it around.`,
+    title: "Take Your App to the Next Level",
+    desc1: `Whether you’ve built your app with NoCode tools or traditional coding, Appleseed.dev helps you optimize for production. `,
+    desc2: `We ensure your app is ready for launch with enhanced performance, reliability, and scalability. `,
+    desc3: `If needed, we replatform parts of your app using traditional tools to ensure it meets all your business requirements`,
     image: "/images/services/llm.svg",
     btnText: 'Let’s Optimize Your App'
   },
   {
     id: "tabFour",
-    title: "Complete Business Automation with AI",
-    desc1: `Automating your entire business can feel like an impossible task.`,
-    desc2: `Solution: Kono makes it achievable. We integrate AI seamlessly into your existing systems, automating everything from customer interactions to internal processes. Our solutions are designed to be user-friendly and scalable, so you can focus on growth.`,
-    desc3: `Discover how AI can transform your business operations and drive efficiency.`,
+    title: "Keep Your App Running Smoothly",
+    desc1: `Launching your app is just the beginning. `,
+    desc2: `Appleseed.dev provides ongoing support and continuous improvement services to keep your app performing at its best.`,
+    desc3: `As your business grows and evolves, we’re here to make sure your app adapts and remains a valuable asset.`,
     image: "/images/services/bootcamps.svg",
     btnText: 'Support and Improve Your App'
   },

@@ -51,7 +51,7 @@ const Services = () => {
               </div>
               <div className="md:w-3/5 lg:w-auto">
                 <button className="text-sm font-medium text-black dark:text-white xl:text-regular text-left">
-                AI Vending Machine
+                Right Tools
                 </button>
               </div>
             </div>
@@ -69,7 +69,7 @@ const Services = () => {
               </div>
               <div className="md:w-3/5 lg:w-auto">
                 <button className="text-sm font-medium text-black dark:text-white xl:text-regular text-left">
-                NoCode Pilots
+                Create Fast
                 </button>
               </div>
             </div>
@@ -105,7 +105,7 @@ const Services = () => {
               </div>
               <div className="md:w-3/5 lg:w-auto">
                 <button className="text-sm font-medium text-black dark:text-white xl:text-regular text-left">
-                AI Business Automation
+                Continuous Improvement
                 </button>
               </div>
             </div>

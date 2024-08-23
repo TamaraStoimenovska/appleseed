@@ -18,7 +18,7 @@ const ServicesTabItem = ({ featureTab }: { featureTab: FeatureTab }) => {
           <p className="w-11/12 font-semibold">{desc3}</p>
           <button
             aria-label="get started button"
-            className="flex rounded-full bg-black px-7.5 py-2.5 text-white duration-300 ease-in-out hover:bg-dark:bg-btndark dark:hover:bg-blackho bg-gradient-to-r from-customOrange to-customRed my-5"
+            className="flex rounded-full bg-black px-7.5 py-2.5 text-white duration-300 ease-in-out hover:bg-dark:bg-btndark dark:hover:bg-blackho bg-gradient-to-r from-customGreen to-customGreener my-5"
             onClick={() => {
               const contactSection = document.getElementById("contact");
               if (contactSection) {
