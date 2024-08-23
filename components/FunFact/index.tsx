@@ -2,7 +2,7 @@
 import React from "react";
 import Image from "next/image";
 import { motion } from "framer-motion";
-import FunFactBG from 'images/backgrounds/FunFactBackground.png'
+
 
 const FunFact = () => {
   return (
@@ -32,19 +32,19 @@ const FunFact = () => {
             className="animate_top mx-auto mb-12.5 px-4 text-center md:w-4/5 md:px-0 lg:mb-17.5 lg:w-2/3 xl:w-1/2"
           >
             <h2 className="mb-4 text-3xl font-bold text-light dark:text-white xl:text-sectiontitle3">
-              Go beyond using<span className="text-[#D35400]"> ChatGPT</span> to Automate your Job and business
+            Turn Your Ideas into <span className="text-[#89af00]"> Reality</span>  with Appleseed.dev
             </h2>
             <p className="mx-auto lg:w-11/12">
-              See how simple AI can be. Kono empowers your business with AI solutions that are easy to implement, straightforward to manage, and designed to scale with your needs. We handle the tech—so you can focus on leading your business to new heights.
+            At Appleseed.dev, we help you build, transform, and scale your apps quickly and efficiently. Whether you’re starting with NoCode, optimizing for production, or replatforming for better performance, our team provides the expertise and tools you need to succeed.
             </p>
           </motion.div>
           <div className="mt-10 flex justify-center">
             <div className="flex gap-5">
               <button
                 aria-label="get started button"
-                className="flex rounded-full bg-black px-7.5 py-2.5 text-white duration-300 ease-in-out hover:bg-blackho dark:bg-btndark dark:hover:bg-blackho bg-gradient-to-r from-customOrange to-customRed"
+                className="flex rounded-full bg-black px-7.5 py-2.5 text-white duration-300 ease-in-out hover:bg-blackho dark:bg-btndark dark:hover:bg-blackho bg-gradient-to-r from-customGreen to-customGreener"
               >
-                Let’s Chat
+                 Let’s Build Together
               </button>
               <button
                 aria-label="get started button"
@@ -56,7 +56,7 @@ const FunFact = () => {
                   }
                 }}
               >
-                Explore Solutions
+                Discover Our Services
               </button>
             </div>
           </div>

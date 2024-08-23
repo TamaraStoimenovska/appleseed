@@ -11,9 +11,9 @@ import Testimonial from "@/components/Testimonial";
 import Clients from "@/components/Clients";
 import Team from "@/components/Team";
 import Services from "@/components/Services";
-import Tools from "@/components/AlPartners";
+import Tools from "@/components/OpenSourcePartners";
 import NoCodePartners from "@/components/NoCodePartners";
-import AlPartners from "@/components/AlPartners";
+import AlPartners from "@/components/OpenSourcePartners";
 import ToolsWeWorkWith from "@/components/ToolsWeWorkWith";
 import HeroBanner from "@/components/HeroBanner";
 

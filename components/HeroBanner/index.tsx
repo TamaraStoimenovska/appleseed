@@ -31,11 +31,25 @@ const HeroBanner = () => {
             className="animate_top mx-auto mb-12.5 px-4 text-center md:w-4/5 md:px-0 lg:mb-17.5 lg:w-2/3 xl:w-1/2"
           >
             <h2 className="mb-4 text-hero font-bold text-light dark:text-white">
-           You are the hero
+              Your Vision, Our Expertise
             </h2>
             <p className="mx-auto lg:w-full text-tools">
-            -- we’re here to make sure you have the tools and strategies you need to <span className="text-[#FFC470]">succeed</span> , without the <span className="text-[#C33C12]">complexity</span>.
+              At Appleseed.dev, we believe in the power of rapid, flexible app development.
+              <br />
+              <span className="text-[#89af00]">Whether starting fresh, transforming an app, or optimizing for production, our NoCode and open-source tools ensure success. We support you from concept to launch and beyond.</span>
             </p>
+            <button
+                      aria-label="get started button"
+                      className="flex rounded-full bg-black px-7.5 py-2.5 text-white duration-300 ease-in-out hover:bg-blackho dark:bg-btndark dark:hover:bg-blackho bg-gradient-to-r from-customGreen to-customGreener my-5 mx-auto" 
+                      onClick={() => {
+                        const contactSection = document.getElementById("contact");
+                        if (contactSection) {
+                          contactSection.scrollIntoView({ behavior: "smooth" });
+                        }
+                      }}
+                    >
+                     Let’s Build Your Future - Contact Us Today
+                    </button>
           </motion.div>
         </div>
       </section>

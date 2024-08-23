@@ -25,15 +25,15 @@ const partnersData: Tool[] = [
   {
     id: 4,
     name: "Tool",
-    href: "https://www.make.com/en",
-    image: "/images/nocode-partners/makeLogo.svg",
+    href: "https://www.appsmith.com/",
+    image: "/images/nocode-partners/appsmithLogo.svg",
     imageLight: "/images/brand/brand-dark-04.svg",
   },
   {
     id: 5,
     name: "Tool",
-    href: "https://supabase.com/",
-    image: "/images/nocode-partners/supabaseLogo.svg",
+    href: "https://www.bravostudio.app/",
+    image: "/images/nocode-partners/bravovisionLogo.svg",
     imageLight: "/images/brand/brand-dark-04.svg",
   },
   {
@@ -53,8 +53,27 @@ const partnersData: Tool[] = [
   {
     id: 8,
     name: "Tool",
-    href: "https://zapier.com/",
-    image: "/images/nocode-partners/zapierLogo.svg",
+    href: "https://www.dhiwise.com/",
+    image: "/images/nocode-partners/dhiwiseLogo.svg",
+    imageLight: "/images/brand/brand-dark-04.svg",
+  },
+  {
+    id: 9,
+    name: "Tool",
+    href: "https://retool.com/",
+    image: "/images/nocode-partners/retoolLogo.svg",
+    imageLight: "/images/brand/brand-dark-04.svg",
+  },{
+    id: 10,
+    name: "Tool",
+    href: "https://draftbit.com/",
+    image: "/images/nocode-partners/drafbitLogo.svg",
+    imageLight: "/images/brand/brand-dark-04.svg",
+  },{
+    id: 11,
+    name: "Tool",
+    href: "https://webflow.com/",
+    image: "/images/nocode-partners/webflowLogo.svg",
     imageLight: "/images/brand/brand-dark-04.svg",
   },
 ];

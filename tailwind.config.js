@@ -37,8 +37,8 @@ module.exports = {
         alabaster: "#FBFBFB",
         zumthor: "#EDF5FF",
         socialicon: "#D1D8E0",
-        customOrange: '#E68012',
-        customRed: '#C33C12',
+        customGreen: '#89af00',
+        customGreener: '#772305',
         grey: '#EEF1F4'
       },
       fontSize: {
