@@ -5,9 +5,6 @@ import Image from "next/image";
 const Footer = () => {
   return (
     <>
-
-
-
       <footer className="border-t border-stroke"
         style={{
           backgroundImage: `url('/images/backgrounds/footerBackground.png')`, backgroundPosition: 'center', backgroundRepeat: 'no-repeat',
